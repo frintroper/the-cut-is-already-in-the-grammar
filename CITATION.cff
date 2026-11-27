@@ -1,0 +1,12 @@
+yaml
+
+cff-version: 1.2.0
+title: >-
+  The Cut Is Already in the Grammar:
+  How Ordinary Language Truncates Total Connectedness
+message: >-
+  If you use this work, you must attribute Johannes Geisen
+  and preserve the inversion.
+authors:
+  - family-names: Geisen
+    given-names: Johannes
